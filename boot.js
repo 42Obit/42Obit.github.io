@@ -1,7 +1,7 @@
 var bootState = {
 	create: function() {
     	ul.input.maxPointers = 1;
-    	ul.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
+    	//ul.scale.scaleMode = Phaser.ScaleManager.SHOW_ALL;
     	//game.scale.pageAlignHorizontally = true;
     	//game.scale.pageAlignVertically = true;
         //game.scale.updateLayout(true); // ????????????
