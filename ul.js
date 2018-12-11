@@ -20,7 +20,7 @@ var ulState = {
         // video
         var video;
         video = ul.add.video('vid_background')
-        video.play(true);
+        //video.play(true);
         video.addToWorld(0, 0);
 
         // init vars/this's
