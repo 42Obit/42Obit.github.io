@@ -18,10 +18,10 @@ var ulState = {
     create: function() {
 
         // video
-        var video;
-        video = ul.add.video('vid_background')
+        //var video;
+        //video = ul.add.video('vid_background')
         //video.play(true);
-        video.addToWorld(0, 0);
+        //video.addToWorld(0, 0);
 
         // init vars/this's
         this.home_status = false;
