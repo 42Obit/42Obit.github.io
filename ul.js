@@ -1,4 +1,4 @@
-var ul = new Phaser.Game(640, 1136, Phaser.CANVAS, 'ul', {preload: preload, create: create, update: update, render: render});
+//var ul = new Phaser.Game(640, 1136, Phaser.CANVAS, 'ul', {preload: preload, create: create, update: update, render: render});
 
 var ulState = {
     preload: function() {
