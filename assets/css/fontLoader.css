@@ -1,0 +1,13 @@
+@font-face {
+	font-family: "Coolvetica";
+	font-style: normal;
+	font-weight: 400;
+	src: url("../fonts/coolvetica_rg.ttf");
+}
+
+@font-face {
+	font-family: "HelveticaNeue-Thin";
+	font-style: normal;
+	font-weight: 400;
+	src: url("../fonts/HelveticaNeue-Thin.ttf");
+}
